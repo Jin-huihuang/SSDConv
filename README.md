@@ -8,7 +8,7 @@
     <img src="assets/SSDConv.png" width="100%" />
 </p>
 
-This repository contains the official PyTorch implementation of **SSDConv** for the TETCI paper [*Feature Diversity Learning for a Compact CNN Module*](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11010101).
+This repository contains the official PyTorch implementation of **SSDConv** for the TETCI paper [*Feature Diversity Learning for a Compact CNN Module*](https://ieeexplore.ieee.org/document/11010101)).
 
 ---
 
