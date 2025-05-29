@@ -49,14 +49,12 @@ out = ssd(input_tensor)
 
 If you find SSDConv helpful, please consider citing our work:
 
-<!-- ```bibtex
+```bibtex
 @article{zhang2025feature,
   title={Feature Diversity Learning for a Compact CNN Module},
   author={Zhang, Huihuang and Hu, Haigen and Zhou, Deming and Cao, Bin and Zhang, Xiaoqin},
-  journal={Neural Networks},
+  journal={IEEE Transactions on Emerging Topics in Computational Intelligence},
   year={2025},
-  publisher={Elsevier}
+  publisher={IEEE}
 }
-``` -->
-
 ---
